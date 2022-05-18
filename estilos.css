@@ -23,3 +23,8 @@ main{
 h2{
     color: darkblue;
 }
+section{
+    height: 300px;
+    width: 100%;
+    background-color: brown;
+}
